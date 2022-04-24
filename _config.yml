@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "paper"
+title                    : "Paper"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "YongbinLee"
+name                     : "Yongbin Lee"
 description              : "Walk_a_mile_in_his_shoes."
 url                      : "https://yblee1223.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
